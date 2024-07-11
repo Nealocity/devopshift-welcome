@@ -5,7 +5,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/yourusername/yourrepository'
+    repoURL: 'https://github.com/Nealocity/devopshift-welcome.git'
     path: ./welcome/app/fe/bookinfo/manifests/manual
     targetRevision: argocd-workshop
   destination:
